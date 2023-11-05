@@ -1,4 +1,4 @@
-# Alexa_lite
+# Voice Commander-Pro
  - Voice command operated bot
  - It wouldn't respond if you don't mention 'alexa' in its name
  - say "alexa play <song_name>" to make alexa play a song in youtube
